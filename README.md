@@ -16,9 +16,9 @@ The boids have 3 rules :
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python math library
-- Python time library
+- Python `tkinter` library
+- Python `math` library
+- Python `time` library
 ## Usage
 In the right section you can ajust the simulation settings.
 
