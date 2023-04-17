@@ -4,9 +4,9 @@
 This is a reproduction of a program created in 1986 by Craig W. Reynolds. This program simulates the behavior of a flock of birds.
 
 The boids have 3 rules :
-- get closer to its furthest neighbors
-- move away from nearest neighbors
-- follow its neighbors
+- Get closer to its furthest neighbors
+- Move away from nearest neighbors
+- Follow its neighbors
 ## Features
 - Visual simulation result
 - Possibility to ajust simulation settings
